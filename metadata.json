@@ -1,0 +1,7 @@
+{
+  "name": "EventSphere - Online Event Management System",
+  "description": "Comprehensive Online Event Management System featuring dedicated dashboards for Administrators, Event Organizers, and Attendees with event approvals, ticketing, attendee communications, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
